@@ -1,0 +1,137 @@
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+    background-color: #ffffff;
+    margin: 5% auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 60%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.modal-header {
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    position: relative;
+}
+
+.close {
+    color: #000; 
+    font-size: 32px; 
+    font-weight: bold;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 10px; 
+    transition: color 0.3s ease-in-out;
+}
+
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.submitButton {
+    background-color: #001f3f;
+    color: #ffffff; 
+    padding: 10px 20px; 
+    font-size: 16px;
+    border: none; 
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.submitButton:hover {
+    background-color: #003366; 
+}
+
+.text-error {
+    color: #e74c3c;
+    font-size: 16px;
+}
+
+.text-success {
+    color: #24caa1;
+    font-size: 16px;
+}
+
+.viewData:hover {
+    background-color: #3ce7d0;
+}
+
+
+.editData:hover {
+    background-color: #fac000;
+}
+
+.deleteData:hover {
+    background-color: #e74c3c;
+}
+
+.reQuota:hover {
+    background-color: #3ce7d0;
+}
+
+.toastCloseBtn {
+    background-color: #003366;
+    font-size: 16px;
+}
+
+.toastCloseBtn:hover {
+    color: #fff;
+}
+
+.custom-toast {
+    font-size: 16px;
+}
+
+
+.custom-list-item {
+    list-style-type: none;
+    padding: 8px;
+    margin: 4px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.custom-list-item:hover {
+    background-color: #f5f5f5;
+}
+
+.main-button:hover {
+    background-color: #001f3f;
+    color: #f5f5f5;
+}
+
+
+.table-container {
+    max-height: 450px; 
+    overflow-y: auto; 
+}
+
+.text-white {
+    color: #f5f5f5;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator, 
+input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+}
