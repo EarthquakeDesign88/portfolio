@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#scanner-container {
+    text-align: center;
+}
+
+#camera-feed {
+    width: 100%;
+    max-width: 400px;
+    margin: 10px auto;
+}
+
+.success-message {
+    color: green;
+}
+
+.error-message {
+    color: red;
+}
+
+
+.qr-scanned {
+    border: 2px solid green; /* Add the border style you prefer */
+    box-shadow: 0 0 10px rgba(0, 128, 0, 0.5); /* Add a shadow effect */
+}
+
+
