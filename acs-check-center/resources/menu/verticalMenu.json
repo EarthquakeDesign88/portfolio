@@ -1,0 +1,107 @@
+{
+  "menu": [
+    {
+      "menuHeader": "ข้อมูลตารางงาน"
+    },
+    {
+      "name": "สรุปข้อมูลตารางงาน",
+      "icon": "menu-icon tf-icons mdi mdi-view-dashboard",
+      "slug": "dashboard",
+      "url": "/"
+    },
+    {
+      "menuHeader": "ตั้งค่า"
+    },
+    {
+      "name": "ตารางงาน",
+      "icon": "menu-icon tf-icons mdi mdi-file-document-multiple-outline",
+      "slug": "jobs",
+      "submenu": [
+        {
+          "url": "/jobschedules",
+          "name": "ตารางงาน",
+          "slug": "jobschedules"
+        },
+        {
+          "url": "/workshift",
+          "name": "กะการทำงาน",
+          "slug": "workshift"
+        },
+        {
+          "url": "/authority",
+          "name": "สิทธิผู้ตรวจงาน",
+          "slug": "authority"
+        },
+        {
+          "url": "/jobstatus",
+          "name": "สถานะงาน",
+          "slug": "jobstatus"
+        }
+      ]
+    },
+    {
+      "name": "จุดตรวจ",
+      "icon": "menu-icon tf-icons mdi mdi-map-marker-outline",
+      "slug": "places",
+      "submenu": [
+        {
+          "url": "/zones",
+          "name": "พื้นที่",
+          "slug": "zones"
+        },
+        {
+          "url": "/locations",
+          "name": "จุดตรวจ",
+          "slug": "locations"
+        }
+      ]
+    },
+    {
+      "name": "แจ้งซ่อม",
+      "icon": "menu-icon tf-icons mdi mdi-tools",
+      "slug": "repairs",
+      "submenu": [
+        {
+          "url": "/repairs",
+          "name": "รายละเอียดงาน",
+          "slug": "repairs"
+        },
+        {
+          "url": "/issueTopics",
+          "name": "หัวข้อปัญหา",
+          "slug": "issueTopics"
+        }
+      ]
+    },
+    {
+      "name": "บัญชีผู้ใช้",
+      "icon": "menu-icon tf-icons mdi mdi-account-outline",
+      "slug": "accounts",
+      "submenu": [
+        {
+          "url": "/accounts",
+          "name": "บัญชีผู้ใช้",
+          "slug": "accounts"
+        },
+        {
+          "url": "/roles",
+          "name": "บทบาท",
+          "slug": "roles"
+        }
+      ]
+    },
+    {
+      "name": "สร้างข้อมูล",
+      "icon": "menu-icon tf-icons mdi mdi-database-plus",
+      "slug": "system-trigger",
+      "submenu": [
+        {
+          "url": "/jobschedules-trigger",
+          "name": "ตารางงาน",
+          "slug": "jobschedules trigger"
+        }
+
+      ]
+    }
+  ]
+}
