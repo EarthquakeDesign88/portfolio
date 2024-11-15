@@ -1,0 +1,20 @@
+Datetime: 2024-10-07 14:07:51
+IP Address: 172.71.124.117
+User: chatchai
+Action: SAVE_INVOICE_APPROVE_MDEP_MULTIDEP_ISMDEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:129:"อนุมัติใบแจ้งหนี้ - รอฝ่ายอนุมัติ (หัวหน้าฝ่าย)";}
+Data GET: a:4:{s:4:"step";s:20:"mdep_multidep_ismdep";s:3:"cid";s:4:"C004";s:3:"dep";s:4:"D025";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------
+Datetime: 2024-10-07 14:08:39
+IP Address: 172.71.124.117
+User: chatchai
+Action: SAVE_INVOICE_APPROVE_MDEP_MULTIDEP_ISMDEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:129:"อนุมัติใบแจ้งหนี้ - รอฝ่ายอนุมัติ (หัวหน้าฝ่าย)";}
+Data GET: a:4:{s:4:"step";s:20:"mdep_multidep_ismdep";s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D003";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------

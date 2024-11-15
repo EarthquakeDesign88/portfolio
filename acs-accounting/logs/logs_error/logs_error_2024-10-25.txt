@@ -1,0 +1,33 @@
+[25-Oct-2024 08:46:58 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\Apache24\htdocs\acs-accounting\config\database2.php:21
+Stack trace:
+#0 C:\Apache24\htdocs\acs-accounting\config\database2.php(21): mysqli_connect()
+#1 C:\Apache24\htdocs\acs-accounting\config\config.php(45): database->__construct()
+#2 C:\Apache24\htdocs\acs-accounting\index.php(2): include('...')
+#3 {main}
+  thrown in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 21
+[25-Oct-2024 08:47:50 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:47:50 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:47:55 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:47:55 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:39 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:40 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:40 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:40 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:40 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:40 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28
+[25-Oct-2024 08:49:40 Asia/Bangkok] PHP Deprecated:  Creation of dynamic property database::$query is deprecated in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 28

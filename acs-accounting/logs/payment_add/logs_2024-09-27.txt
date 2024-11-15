@@ -1,0 +1,480 @@
+Datetime: 2024-09-27 10:18:57
+IP Address: 162.158.189.4
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D002";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:2:"AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"48381413";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6477;s:5:" 6477";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 10:20:06
+IP Address: 162.158.189.236
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D002";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:2:"AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:5732;s:5:" 5732";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 10:21:12
+IP Address: 172.70.143.220
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D002";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:2:"AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"48381414";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6475;s:5:" 6475";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 10:30:35
+IP Address: 172.70.142.59
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D002";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:2:"AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6568;s:5:" 6568";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 10:31:08
+IP Address: 172.70.142.58
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D002";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:2:"AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6567;s:5:" 6567";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 10:31:29
+IP Address: 172.70.142.58
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D002";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:2:"AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6566;s:5:" 6566";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 10:31:53
+IP Address: 172.70.142.58
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D002";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:2:"AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6565;s:5:" 6565";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 10:41:16
+IP Address: 172.70.142.124
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D002";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:2:"AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"48381415";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6507;s:5:" 6507";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 10:59:32
+IP Address: 108.162.226.29
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C008";s:3:"dep";s:4:"D012";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"TTNI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6563;s:5:" 6563";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:00:12
+IP Address: 108.162.226.28
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C008";s:3:"dep";s:4:"D012";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"TTNI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6562;s:5:" 6562";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:02:37
+IP Address: 108.162.226.28
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C008";s:3:"dep";s:4:"D012";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"TTNI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"48180411";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6505;s:5:" 6505";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:18:43
+IP Address: 162.158.106.135
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C015";s:3:"dep";s:4:"D006";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"ACSD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6561;s:5:" 6561";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:28:26
+IP Address: 172.70.143.172
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C015";s:3:"dep";s:4:"D006";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"ACSD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"47792817";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:5832;s:5:" 5832";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:29:14
+IP Address: 172.70.143.173
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C015";s:3:"dep";s:4:"D006";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"ACSD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6500;s:5:" 6500";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:29:48
+IP Address: 172.70.143.172
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C015";s:3:"dep";s:4:"D006";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"ACSD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6560;s:5:" 6560";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:34:39
+IP Address: 172.70.188.102
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C016";s:3:"dep";s:4:"D021";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"EPTG";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6556;s:5:" 6556";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:38:18
+IP Address: 108.162.226.198
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C004";s:3:"dep";s:4:"D024";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:7:"ACSP-AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"48471824";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6375;s:5:" 6375";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:39:11
+IP Address: 108.162.226.198
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C004";s:3:"dep";s:4:"D024";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:7:"ACSP-AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"48471825";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6376;s:5:" 6376";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:39:54
+IP Address: 108.162.226.198
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C004";s:3:"dep";s:4:"D024";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:7:"ACSP-AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"48471826";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6550;s:5:" 6550";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:40:19
+IP Address: 108.162.226.198
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C004";s:3:"dep";s:4:"D024";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:7:"ACSP-AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6559;s:5:" 6559";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:51:33
+IP Address: 172.71.124.26
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C014";s:3:"dep";s:4:"D004";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"ACSI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6555;s:5:" 6555";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:51:59
+IP Address: 172.71.124.26
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C014";s:3:"dep";s:4:"D004";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"ACSI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6525;s:5:" 6525";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:52:45
+IP Address: 172.71.124.27
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C014";s:3:"dep";s:4:"D004";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"ACSI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"47996535";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6528;s:5:" 6528";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:53:31
+IP Address: 172.71.124.26
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C014";s:3:"dep";s:4:"D004";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"ACSI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"47996536";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6424;s:5:" 6424";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:54:07
+IP Address: 172.71.124.26
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C014";s:3:"dep";s:4:"D004";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"ACSI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"47996537";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6422;s:5:" 6422";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:54:44
+IP Address: 172.71.124.26
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C014";s:3:"dep";s:4:"D004";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"ACSI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"47996538";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6521;s:5:" 6521";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:55:48
+IP Address: 172.71.124.26
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C014";s:3:"dep";s:4:"D004";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"ACSI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"47996539";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6551;s:5:" 6551";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 11:56:34
+IP Address: 172.71.124.26
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C014";s:3:"dep";s:4:"D004";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"ACSI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6522;s:5:" 6522";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 12:05:01
+IP Address: 172.71.124.26
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C010";s:3:"dep";s:4:"D011";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"TPPT";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6557;s:5:" 6557";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 12:05:40
+IP Address: 172.71.124.27
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C010";s:3:"dep";s:4:"D011";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-10-01";s:7:"depname";s:4:"TPPT";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6518;s:5:" 6518";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 12:06:58
+IP Address: 108.162.227.21
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C010";s:3:"dep";s:4:"D011";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"TPPT";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"47358528";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6513;s:5:" 6513";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 12:11:38
+IP Address: 162.158.106.125
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C009";s:3:"dep";s:4:"D013";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"TBRI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"47996477";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6501;s:5:" 6501";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 13:02:24
+IP Address: 162.158.106.90
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C011";s:3:"dep";s:4:"D010";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"RPEC";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"47038144";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6564;s:5:" 6564";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 13:03:12
+IP Address: 162.158.106.91
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C011";s:3:"dep";s:4:"D010";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"RPEC";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"47038145";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6535;s:5:" 6535";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 13:03:54
+IP Address: 162.158.106.90
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C011";s:3:"dep";s:4:"D010";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"RPEC";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"47038146";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6534;s:5:" 6534";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 13:04:19
+IP Address: 162.158.106.91
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C011";s:3:"dep";s:4:"D010";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"RPEC";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6558;s:5:" 6558";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 13:04:43
+IP Address: 162.158.106.91
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C011";s:3:"dep";s:4:"D010";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"RPEC";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6547;s:5:" 6547";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 13:05:04
+IP Address: 162.158.106.91
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C011";s:3:"dep";s:4:"D010";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"RPEC";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6543;s:5:" 6543";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 13:05:23
+IP Address: 162.158.106.90
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C011";s:3:"dep";s:4:"D010";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"RPEC";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6541;s:5:" 6541";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 13:05:40
+IP Address: 162.158.106.90
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C011";s:3:"dep";s:4:"D010";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"RPEC";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6508;s:5:" 6508";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 13:14:04
+IP Address: 162.158.171.13
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C009";s:3:"dep";s:4:"D013";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"TBRI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"47996478";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6143;s:5:" 6143";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 13:15:03
+IP Address: 162.158.171.14
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C009";s:3:"dep";s:4:"D013";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"TBRI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"47996479";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6144;s:5:" 6144";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 13:15:49
+IP Address: 162.158.171.13
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C009";s:3:"dep";s:4:"D013";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"TBRI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"47996480";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6145;s:5:" 6145";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 13:16:34
+IP Address: 162.158.171.13
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C009";s:3:"dep";s:4:"D013";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"TBRI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"47996481";s:9:"cheq_date";s:10:"2024-09-30";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6146;s:5:" 6146";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 15:07:02
+IP Address: 108.162.226.141
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C014";s:3:"dep";s:4:"D004";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"ACSI";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6569;s:5:" 6569";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 15:52:13
+IP Address: 172.71.81.61
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C004";s:3:"dep";s:4:"D024";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:7:"ACSP-AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6571;s:5:" 6571";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 15:52:49
+IP Address: 172.71.81.62
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D002";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:2:"AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6572;s:5:" 6572";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-27 17:25:13
+IP Address: 172.70.143.220
+User: ladda
+Action: SAVE_PAYMENT_ADD
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:42:"ออกใบสำคัญจ่าย";}
+Data GET: a:3:{s:3:"cid";s:4:"C011";s:3:"dep";s:4:"D010";s:6:"action";s:8:"save_add";}
+Data POST: a:9:{s:12:"paym_paydate";s:10:"2024-09-30";s:7:"depname";s:4:"RPEC";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6570;s:5:" 6570";}s:9:"paym_note";s:0:"";}
+-------------------------

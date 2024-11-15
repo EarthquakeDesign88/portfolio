@@ -1,0 +1,285 @@
+Datetime: 2024-08-27 08:58:28
+IP Address: 172.70.189.32
+Action: login
+Status: S
+Status Message: Success
+Username: pannee
+Password: YVRRNU5IYzFhalJyTldvMWVUSTBORGcwZFRJPQ==
+-------------------------
+Datetime: 2024-08-27 09:03:05
+IP Address: 172.71.124.232
+Action: login
+Status: S
+Status Message: Success
+Username: sureeporn
+Password: WnpSeE5IZzFiRFJyTldvMWNqUjZOWGsxZGpKMk1qRXo=
+-------------------------
+Datetime: 2024-08-27 09:03:39
+IP Address: 172.70.147.195
+Action: logout
+Username: sureeporn
+-------------------------
+Datetime: 2024-08-27 09:33:18
+IP Address: 172.70.143.200
+Action: login
+Status: S
+Status Message: Success
+Username: ladda
+Password: WmpSME5HbzFkVFExTkRrMGVqSTNORFUwTXpNPQ==
+-------------------------
+Datetime: 2024-08-27 09:51:22
+IP Address: 162.158.106.240
+Action: login
+Status: S
+Status Message: Success
+Username: phimphan
+Password: YVRSbk5ISTFhVFIyTlcwMVlUUnpOUT09
+-------------------------
+Datetime: 2024-08-27 10:00:37
+IP Address: 172.70.147.93
+Action: logout
+Username: 0
+-------------------------
+Datetime: 2024-08-27 10:39:41
+IP Address: 162.158.106.253
+Action: login
+Status: S
+Status Message: Success
+Username: pannee
+Password: YVRRNU5IYzFhalJyTldvMWVUSTBORGcwZFRJPQ==
+-------------------------
+Datetime: 2024-08-27 11:16:54
+IP Address: 172.70.189.84
+Action: login
+Status: S
+Status Message: Success
+Username: anutthawan
+Password: Y1RKM01tRTBkREk1TkRVMA==
+-------------------------
+Datetime: 2024-08-27 11:43:31
+IP Address: 172.69.165.9
+Action: login
+Status: S
+Status Message: Success
+Username: ladda
+Password: WmpSME5HbzFkVFExTkRrMGVqSTNORFUwTXpNPQ==
+-------------------------
+Datetime: 2024-08-27 12:03:40
+IP Address: 172.69.166.98
+Action: login
+Status: S
+Status Message: Success
+Username: ladda
+Password: WmpSME5HbzFkVFExTkRrMGVqSTNORFUwTXpNPQ==
+-------------------------
+Datetime: 2024-08-27 12:56:12
+IP Address: 172.71.124.73
+Action: login
+Status: S
+Status Message: Success
+Username: chivathip
+Password: TlRSbk5ISTFjalJuTlRVMGVqSXpOQT09
+-------------------------
+Datetime: 2024-08-27 13:07:44
+IP Address: 172.70.189.106
+Action: logout
+Username: 0
+-------------------------
+Datetime: 2024-08-27 13:10:00
+IP Address: 108.162.226.147
+Action: login
+Status: S
+Status Message: Success
+Username: pannee
+Password: YVRRNU5IYzFhalJyTldvMWVUSTBORGcwZFRJPQ==
+-------------------------
+Datetime: 2024-08-27 13:12:53
+IP Address: 172.71.152.75
+Action: login
+Status: S
+Status Message: Success
+Username: ladda
+Password: WmpSME5HbzFkVFExTkRrMGVqSTNORFUwTXpNPQ==
+-------------------------
+Datetime: 2024-08-27 13:19:46
+IP Address: 172.70.147.93
+Action: login
+Status: S
+Status Message: Success
+Username: ladda
+Password: WmpSME5HbzFkVFExTkRrMGVqSTNORFUwTXpNPQ==
+-------------------------
+Datetime: 2024-08-27 13:21:26
+IP Address: 172.70.142.167
+Action: login
+Status: S
+Status Message: Success
+Username: sureeporn
+Password: WnpSeE5IZzFiRFJyTldvMWNqUjZOWGsxZGpKMk1qRXo=
+-------------------------
+Datetime: 2024-08-27 13:39:12
+IP Address: 172.70.142.134
+Action: logout
+Username: sureeporn
+-------------------------
+Datetime: 2024-08-27 13:41:19
+IP Address: 172.70.92.210
+Action: login
+Status: S
+Status Message: Success
+Username: thasanee
+Password: YlRSbk5HbzFielJuTlhNMVpUUnFOVFEwZHpKNU1uWXk=
+-------------------------
+Datetime: 2024-08-27 13:46:04
+IP Address: 172.71.124.30
+Action: login
+Status: S
+Status Message: Success
+Username: chivathip
+Password: TlRSbk5ISTFjalJuTlRVMGVqSXpOQT09
+-------------------------
+Datetime: 2024-08-27 13:52:09
+IP Address: 172.70.92.230
+Action: login
+Status: S
+Status Message: Success
+Username: ladda
+Password: WmpSME5HbzFkVFExTkRrMGVqSTNORFUwTXpNPQ==
+-------------------------
+Datetime: 2024-08-27 14:03:44
+IP Address: 172.70.142.37
+Action: login
+Status: S
+Status Message: Success
+Username: pannee
+Password: YVRRNU5IYzFhalJyTldvMWVUSTBORGcwZFRJPQ==
+-------------------------
+Datetime: 2024-08-27 14:14:12
+IP Address: 162.158.189.33
+Action: login
+Status: S
+Status Message: Success
+Username: thasanee
+Password: YlRSbk5HbzFielJuTlhNMVpUUnFOVFEwZHpKNU1uWXk=
+-------------------------
+Datetime: 2024-08-27 14:31:31
+IP Address: 172.69.166.98
+Action: login
+Status: S
+Status Message: Success
+Username: anutthawan
+Password: Y1RKM01tRTBkREk1TkRVMA==
+-------------------------
+Datetime: 2024-08-27 14:57:25
+IP Address: 172.69.166.29
+Action: login
+Status: S
+Status Message: Success
+Username: ladda
+Password: WmpSME5HbzFkVFExTkRrMGVqSTNORFUwTXpNPQ==
+-------------------------
+Datetime: 2024-08-27 15:02:09
+IP Address: 172.70.142.152
+Action: login
+Status: F
+Status Message: รหัสผ่านไม่ถูกต้อง
+Username: sureeporn
+Password: WnpSeE5IZzFiRFJyTldvMWNqUjZOWGsxZGpJeU13PT0=
+-------------------------
+Datetime: 2024-08-27 15:02:17
+IP Address: 172.70.142.153
+Action: login
+Status: S
+Status Message: Success
+Username: sureeporn
+Password: WnpSeE5IZzFiRFJyTldvMWNqUjZOWGsxZGpKMk1qRXo=
+-------------------------
+Datetime: 2024-08-27 15:02:41
+IP Address: 172.70.142.153
+Action: logout
+Username: sureeporn
+-------------------------
+Datetime: 2024-08-27 15:40:26
+IP Address: 172.70.189.67
+Action: login
+Status: S
+Status Message: Success
+Username: pannee
+Password: YVRRNU5IYzFhalJyTldvMWVUSTBORGcwZFRJPQ==
+-------------------------
+Datetime: 2024-08-27 15:44:29
+IP Address: 108.162.227.105
+Action: logout
+Username: pannee
+-------------------------
+Datetime: 2024-08-27 16:14:01
+IP Address: 108.162.226.146
+Action: login
+Status: S
+Status Message: Success
+Username: pannee
+Password: YVRRNU5IYzFhalJyTldvMWVUSTBORGcwZFRJPQ==
+-------------------------
+Datetime: 2024-08-27 16:14:42
+IP Address: 162.158.189.32
+Action: login
+Status: S
+Status Message: Success
+Username: anutthawan
+Password: Y1RKM01tRTBkREk1TkRVMA==
+-------------------------
+Datetime: 2024-08-27 16:45:32
+IP Address: 172.70.147.9
+Action: logout
+Username: anutthawan
+-------------------------
+Datetime: 2024-08-27 16:47:42
+IP Address: 162.158.189.108
+Action: logout
+Username: pannee
+-------------------------
+Datetime: 2024-08-27 18:18:01
+IP Address: 172.68.242.63
+Action: login
+Status: S
+Status Message: Success
+Username: ladda
+Password: WmpSME5HbzFkVFExTkRrMGVqSTNORFUwTXpNPQ==
+-------------------------
+Datetime: 2024-08-27 18:24:21
+IP Address: 162.158.106.173
+Action: login
+Status: S
+Status Message: Success
+Username: sureeporn
+Password: WnpSeE5IZzFiRFJyTldvMWNqUjZOWGsxZGpKMk1qRXo=
+-------------------------
+Datetime: 2024-08-27 18:26:36
+IP Address: 172.71.81.109
+Action: logout
+Username: sureeporn
+-------------------------
+Datetime: 2024-08-27 19:18:26
+IP Address: 172.69.166.99
+Action: login
+Status: S
+Status Message: Success
+Username: ladda
+Password: WmpSME5HbzFkVFExTkRrMGVqSTNORFUwTXpNPQ==
+-------------------------
+Datetime: 2024-08-27 22:47:35
+IP Address: 172.71.124.232
+Action: login
+Status: S
+Status Message: Success
+Username: salinee
+Password: Y2pKNU1qazBlREk9
+-------------------------
+Datetime: 2024-08-27 22:47:35
+IP Address: 172.71.124.232
+Action: login
+Status: S
+Status Message: Success
+Username: salinee
+Password: Y2pKNU1qazBlREk9
+-------------------------

@@ -1,0 +1,10 @@
+Datetime: 2024-10-15 10:24:55
+IP Address: 172.71.124.10
+User: thasanee
+Action: SAVE_PAYMENT_EDIT
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:77:"แก้ไขใบสำคัญจ่าย เลขที่ AD6710010";}
+Data GET: a:3:{s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D002";s:6:"action";s:9:"save_edit";}
+Data POST: a:9:{s:7:"paym_id";s:4:"5708";s:7:"depname";s:2:"AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"48381421";s:9:"cheq_date";s:10:"2024-10-15";s:11:"cheq_bankid";s:4:"B001";s:6:"inv_id";a:1:{i:6643;s:5:" 6643";}s:9:"paym_note";s:0:"";}
+-------------------------

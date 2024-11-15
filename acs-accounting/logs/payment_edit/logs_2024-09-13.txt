@@ -1,0 +1,20 @@
+Datetime: 2024-09-13 10:24:58
+IP Address: 108.162.226.71
+User: thasanee
+Action: SAVE_PAYMENT_EDIT
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:77:"แก้ไขใบสำคัญจ่าย เลขที่ CM6709004";}
+Data GET: a:3:{s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D003";s:6:"action";s:9:"save_edit";}
+Data POST: a:9:{s:7:"paym_id";s:4:"5536";s:7:"depname";s:2:"CM";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"1";s:7:"cheq_no";s:0:"";s:9:"cheq_date";s:0:"";s:11:"cheq_bankid";s:0:"";s:6:"inv_id";a:1:{i:6468;s:5:" 6468";}s:9:"paym_note";s:0:"";}
+-------------------------
+Datetime: 2024-09-13 10:43:09
+IP Address: 172.70.92.235
+User: thasanee
+Action: SAVE_PAYMENT_EDIT
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:77:"แก้ไขใบสำคัญจ่าย เลขที่ AD6709022";}
+Data GET: a:3:{s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D002";s:6:"action";s:9:"save_edit";}
+Data POST: a:9:{s:7:"paym_id";s:4:"5539";s:7:"depname";s:2:"AD";s:10:"paymstatus";s:24:"ค้างจ่าย";s:12:"paym_typepay";s:1:"2";s:7:"cheq_no";s:8:"59440016";s:9:"cheq_date";s:10:"2024-09-16";s:11:"cheq_bankid";s:4:"B003";s:6:"inv_id";a:1:{i:6483;s:5:" 6483";}s:9:"paym_note";s:0:"";}
+-------------------------

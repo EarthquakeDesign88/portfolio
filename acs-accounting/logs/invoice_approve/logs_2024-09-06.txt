@@ -1,0 +1,150 @@
+Datetime: 2024-09-06 11:29:08
+IP Address: 172.69.166.59
+User: sureeporn
+Action: SAVE_INVOICE_APPROVE_MGR_NODEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:85:"อนุมัติใบแจ้งหนี้ - รอตรวจจ่าย ";}
+Data GET: a:4:{s:4:"step";s:9:"mgr_nodep";s:3:"cid";s:4:"C009";s:3:"dep";s:4:"D013";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------
+Datetime: 2024-09-06 11:39:55
+IP Address: 162.158.170.237
+User: sureeporn
+Action: SAVE_INVOICE_APPROVE_MGR_NODEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:85:"อนุมัติใบแจ้งหนี้ - รอตรวจจ่าย ";}
+Data GET: a:4:{s:4:"step";s:9:"mgr_nodep";s:3:"cid";s:4:"C002";s:3:"dep";s:4:"D007";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------
+Datetime: 2024-09-06 12:03:49
+IP Address: 172.70.142.118
+User: sureeporn
+Action: SAVE_INVOICE_APPROVE_MGR_NODEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:85:"อนุมัติใบแจ้งหนี้ - รอตรวจจ่าย ";}
+Data GET: a:4:{s:4:"step";s:9:"mgr_nodep";s:3:"cid";s:4:"C011";s:3:"dep";s:4:"D010";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------
+Datetime: 2024-09-06 12:06:15
+IP Address: 172.71.81.224
+User: sureeporn
+Action: SAVE_INVOICE_APPROVE_MGR_NODEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:85:"อนุมัติใบแจ้งหนี้ - รอตรวจจ่าย ";}
+Data GET: a:4:{s:4:"step";s:9:"mgr_nodep";s:3:"cid";s:4:"C012";s:3:"dep";s:4:"D023";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------
+Datetime: 2024-09-06 13:46:39
+IP Address: 172.70.188.96
+User: sureeporn
+Action: SAVE_INVOICE_APPROVE_MGR_NODEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:85:"อนุมัติใบแจ้งหนี้ - รอตรวจจ่าย ";}
+Data GET: a:4:{s:4:"step";s:9:"mgr_nodep";s:3:"cid";s:4:"C010";s:3:"dep";s:4:"D011";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------
+Datetime: 2024-09-06 13:56:39
+IP Address: 108.162.226.28
+User: sureeporn
+Action: SAVE_INVOICE_APPROVE_MGR_NODEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:85:"อนุมัติใบแจ้งหนี้ - รอตรวจจ่าย ";}
+Data GET: a:4:{s:4:"step";s:9:"mgr_nodep";s:3:"cid";s:4:"C008";s:3:"dep";s:4:"D012";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------
+Datetime: 2024-09-06 14:08:17
+IP Address: 172.70.92.153
+User: sureeporn
+Action: SAVE_INVOICE_APPROVE_MGR_NODEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:85:"อนุมัติใบแจ้งหนี้ - รอตรวจจ่าย ";}
+Data GET: a:4:{s:4:"step";s:9:"mgr_nodep";s:3:"cid";s:4:"C003";s:3:"dep";s:4:"D014";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------
+Datetime: 2024-09-06 14:11:37
+IP Address: 162.158.163.253
+User: sureeporn
+Action: SAVE_INVOICE_APPROVE_MDEPMGR_MULTIDEP_NOMDEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:84:"อนุมัติใบแจ้งหนี้ - รอตรวจจ่าย";}
+Data GET: a:4:{s:4:"step";s:23:"mdepmgr_multidep_nomdep";s:3:"cid";s:4:"C004";s:3:"dep";s:4:"D024";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------
+Datetime: 2024-09-06 14:12:28
+IP Address: 162.158.163.253
+User: sureeporn
+Action: SAVE_INVOICE_APPROVE_MGR_NODEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:85:"อนุมัติใบแจ้งหนี้ - รอตรวจจ่าย ";}
+Data GET: a:4:{s:4:"step";s:9:"mgr_nodep";s:3:"cid";s:4:"C016";s:3:"dep";s:4:"D021";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------
+Datetime: 2024-09-06 14:15:07
+IP Address: 162.158.106.203
+User: sureeporn
+Action: SAVE_INVOICE_APPROVE_MGR_NODEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:85:"อนุมัติใบแจ้งหนี้ - รอตรวจจ่าย ";}
+Data GET: a:4:{s:4:"step";s:9:"mgr_nodep";s:3:"cid";s:4:"C015";s:3:"dep";s:4:"D006";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------
+Datetime: 2024-09-06 14:37:32
+IP Address: 108.162.226.79
+User: sureeporn
+Action: SAVE_INVOICE_APPROVE_MGR_NODEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:85:"อนุมัติใบแจ้งหนี้ - รอตรวจจ่าย ";}
+Data GET: a:4:{s:4:"step";s:9:"mgr_nodep";s:3:"cid";s:4:"C014";s:3:"dep";s:4:"D004";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------
+Datetime: 2024-09-06 14:49:54
+IP Address: 162.158.170.47
+User: sureeporn
+Action: SAVE_INVOICE_APPROVE_MDEPMGR_MULTIDEP_NOMDEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:84:"อนุมัติใบแจ้งหนี้ - รอตรวจจ่าย";}
+Data GET: a:4:{s:4:"step";s:23:"mdepmgr_multidep_nomdep";s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D002";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------
+Datetime: 2024-09-06 15:01:19
+IP Address: 162.158.189.3
+User: sureeporn
+Action: SAVE_INVOICE_APPROVE_MGR_NODEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:85:"อนุมัติใบแจ้งหนี้ - รอตรวจจ่าย ";}
+Data GET: a:4:{s:4:"step";s:9:"mgr_nodep";s:3:"cid";s:4:"C014";s:3:"dep";s:4:"D004";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------
+Datetime: 2024-09-06 15:15:48
+IP Address: 172.71.124.64
+User: sureeporn
+Action: SAVE_INVOICE_APPROVE_MGR_MULTIDEP_ISMDEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:120:"อนุมัติใบแจ้งหนี้ - รอตรวจจ่าย (หัวหน้าฝ่าย)";}
+Data GET: a:4:{s:4:"step";s:19:"mgr_multidep_ismdep";s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D003";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------
+Datetime: 2024-09-06 15:19:57
+IP Address: 172.70.93.26
+User: sureeporn
+Action: SAVE_INVOICE_APPROVE_MDEPMGR_MULTIDEP_NOMDEP
+Status: S
+Ref: 
+Detail: a:1:{s:6:"detail";s:84:"อนุมัติใบแจ้งหนี้ - รอตรวจจ่าย";}
+Data GET: a:4:{s:4:"step";s:23:"mdepmgr_multidep_nomdep";s:3:"cid";s:4:"C001";s:3:"dep";s:4:"D002";s:6:"action";s:4:"save";}
+Data POST: 
+-------------------------

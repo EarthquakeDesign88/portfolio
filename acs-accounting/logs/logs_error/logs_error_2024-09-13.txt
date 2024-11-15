@@ -1,0 +1,159 @@
+[13-Sep-2024 11:06:31 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cp261186_accounting-prod.user_tb' doesn't exist in C:\Apache24\htdocs\acs-accounting\config\database2.php:29
+Stack trace:
+#0 C:\Apache24\htdocs\acs-accounting\config\database2.php(29): mysqli_query()
+#1 C:\Apache24\htdocs\acs-accounting\config\function_data.php(13): database->query()
+#2 C:\Apache24\htdocs\acs-accounting\config\function_authority.php(115): __data_user()
+#3 C:\Apache24\htdocs\acs-accounting\config\function_authority.php(220): __authority_department_list()
+#4 C:\Apache24\htdocs\acs-accounting\payment.php(9): __authority_company_count_department()
+#5 {main}
+  thrown in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 29
+[13-Sep-2024 11:06:32 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cp261186_accounting-prod.user_tb' doesn't exist in C:\Apache24\htdocs\acs-accounting\config\database2.php:29
+Stack trace:
+#0 C:\Apache24\htdocs\acs-accounting\config\database2.php(29): mysqli_query()
+#1 C:\Apache24\htdocs\acs-accounting\config\function_data.php(13): database->query()
+#2 C:\Apache24\htdocs\acs-accounting\config\function_invoice.php(545): __data_user()
+#3 C:\Apache24\htdocs\acs-accounting\index.php(16): __invoice_step_company_list()
+#4 {main}
+  thrown in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 29
+[13-Sep-2024 11:06:32 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cp261186_accounting-prod.user_tb' doesn't exist in C:\Apache24\htdocs\acs-accounting\config\database2.php:29
+Stack trace:
+#0 C:\Apache24\htdocs\acs-accounting\config\database2.php(29): mysqli_query()
+#1 C:\Apache24\htdocs\acs-accounting\config\function_data.php(13): database->query()
+#2 C:\Apache24\htdocs\acs-accounting\config\function_invoice.php(545): __data_user()
+#3 C:\Apache24\htdocs\acs-accounting\index.php(16): __invoice_step_company_list()
+#4 {main}
+  thrown in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 29
+[13-Sep-2024 11:06:33 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cp261186_accounting-prod.user_tb' doesn't exist in C:\Apache24\htdocs\acs-accounting\config\database2.php:29
+Stack trace:
+#0 C:\Apache24\htdocs\acs-accounting\config\database2.php(29): mysqli_query()
+#1 C:\Apache24\htdocs\acs-accounting\config\function_data.php(13): database->query()
+#2 C:\Apache24\htdocs\acs-accounting\config\function_invoice.php(545): __data_user()
+#3 C:\Apache24\htdocs\acs-accounting\index.php(16): __invoice_step_company_list()
+#4 {main}
+  thrown in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 29
+[13-Sep-2024 11:06:33 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cp261186_accounting-prod.user_tb' doesn't exist in C:\Apache24\htdocs\acs-accounting\config\database2.php:29
+Stack trace:
+#0 C:\Apache24\htdocs\acs-accounting\config\database2.php(29): mysqli_query()
+#1 C:\Apache24\htdocs\acs-accounting\config\function_data.php(13): database->query()
+#2 C:\Apache24\htdocs\acs-accounting\config\function_invoice.php(545): __data_user()
+#3 C:\Apache24\htdocs\acs-accounting\index.php(16): __invoice_step_company_list()
+#4 {main}
+  thrown in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 29
+[13-Sep-2024 11:06:33 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cp261186_accounting-prod.user_tb' doesn't exist in C:\Apache24\htdocs\acs-accounting\config\database2.php:29
+Stack trace:
+#0 C:\Apache24\htdocs\acs-accounting\config\database2.php(29): mysqli_query()
+#1 C:\Apache24\htdocs\acs-accounting\config\function_data.php(13): database->query()
+#2 C:\Apache24\htdocs\acs-accounting\config\function_invoice.php(545): __data_user()
+#3 C:\Apache24\htdocs\acs-accounting\index.php(16): __invoice_step_company_list()
+#4 {main}
+  thrown in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 29
+[13-Sep-2024 11:06:33 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cp261186_accounting-prod.user_tb' doesn't exist in C:\Apache24\htdocs\acs-accounting\config\database2.php:29
+Stack trace:
+#0 C:\Apache24\htdocs\acs-accounting\config\database2.php(29): mysqli_query()
+#1 C:\Apache24\htdocs\acs-accounting\config\function_data.php(13): database->query()
+#2 C:\Apache24\htdocs\acs-accounting\config\function_invoice.php(545): __data_user()
+#3 C:\Apache24\htdocs\acs-accounting\index.php(16): __invoice_step_company_list()
+#4 {main}
+  thrown in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 29
+[13-Sep-2024 11:06:34 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cp261186_accounting-prod.user_tb' doesn't exist in C:\Apache24\htdocs\acs-accounting\config\database2.php:29
+Stack trace:
+#0 C:\Apache24\htdocs\acs-accounting\config\database2.php(29): mysqli_query()
+#1 C:\Apache24\htdocs\acs-accounting\config\function_data.php(13): database->query()
+#2 C:\Apache24\htdocs\acs-accounting\config\function_invoice.php(545): __data_user()
+#3 C:\Apache24\htdocs\acs-accounting\index.php(16): __invoice_step_company_list()
+#4 {main}
+  thrown in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 29
+[13-Sep-2024 11:06:34 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cp261186_accounting-prod.user_tb' doesn't exist in C:\Apache24\htdocs\acs-accounting\config\database2.php:29
+Stack trace:
+#0 C:\Apache24\htdocs\acs-accounting\config\database2.php(29): mysqli_query()
+#1 C:\Apache24\htdocs\acs-accounting\config\function_data.php(13): database->query()
+#2 C:\Apache24\htdocs\acs-accounting\config\function_invoice.php(545): __data_user()
+#3 C:\Apache24\htdocs\acs-accounting\index.php(16): __invoice_step_company_list()
+#4 {main}
+  thrown in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 29
+[13-Sep-2024 11:06:34 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cp261186_accounting-prod.user_tb' doesn't exist in C:\Apache24\htdocs\acs-accounting\config\database2.php:29
+Stack trace:
+#0 C:\Apache24\htdocs\acs-accounting\config\database2.php(29): mysqli_query()
+#1 C:\Apache24\htdocs\acs-accounting\config\function_data.php(13): database->query()
+#2 C:\Apache24\htdocs\acs-accounting\config\function_invoice.php(545): __data_user()
+#3 C:\Apache24\htdocs\acs-accounting\index.php(16): __invoice_step_company_list()
+#4 {main}
+  thrown in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 29
+[13-Sep-2024 11:06:34 Asia/Bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'cp261186_accounting-prod.user_tb' doesn't exist in C:\Apache24\htdocs\acs-accounting\config\database2.php:29
+Stack trace:
+#0 C:\Apache24\htdocs\acs-accounting\config\database2.php(29): mysqli_query()
+#1 C:\Apache24\htdocs\acs-accounting\config\function_data.php(13): database->query()
+#2 C:\Apache24\htdocs\acs-accounting\config\function_invoice.php(545): __data_user()
+#3 C:\Apache24\htdocs\acs-accounting\index.php(16): __invoice_step_company_list()
+#4 {main}
+  thrown in C:\Apache24\htdocs\acs-accounting\config\database2.php on line 29
+[13-Sep-2024 11:24:48 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:48 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:48 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:48 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:48 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:49 Asia/Bangkok] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 6569
+[13-Sep-2024 11:24:50 Asia/Bangkok] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output (C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php at line 6569), unable to output PDF file in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php:9527
+Stack trace:
+#0 C:\Apache24\htdocs\acs-accounting\config\function_pdf.php(2440): Mpdf\Mpdf->Output()
+#1 C:\Apache24\htdocs\acs-accounting\export\payment_pdf.php(27): __pdf_payment()
+#2 {main}
+  thrown in C:\Apache24\htdocs\acs-accounting\vendor\mpdf\mpdf\src\Mpdf.php on line 9527

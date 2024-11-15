@@ -1,0 +1,241 @@
+Datetime: 2024-10-10 03:56:10
+IP Address: 172.68.241.145
+Action: login
+Status: S
+Status Message: Success
+Username: phimphan
+Password: YVRSbk5ISTFhVFIyTlcwMVlUUnpOUT09
+-------------------------
+Datetime: 2024-10-10 08:52:24
+IP Address: 172.71.124.138
+Action: login
+Status: S
+Status Message: Success
+Username: ladda
+Password: WmpSME5HbzFkVFExTkRrMGVqSTNORFUwTXpNPQ==
+-------------------------
+Datetime: 2024-10-10 08:57:07
+IP Address: 172.71.81.158
+Action: login
+Status: S
+Status Message: Success
+Username: pannee
+Password: YVRRNU5IYzFhalJyTldvMWVUSTBORGcwZFRJPQ==
+-------------------------
+Datetime: 2024-10-10 09:42:18
+IP Address: 162.158.170.253
+Action: login
+Status: S
+Status Message: Success
+Username: sureeporn
+Password: WnpSeE5IZzFiRFJyTldvMWNqUjZOWGsxZGpKMk1qRXo=
+-------------------------
+Datetime: 2024-10-10 09:52:50
+IP Address: 162.158.189.86
+Action: login
+Status: F
+Status Message: รหัสผ่านไม่ถูกต้อง
+Username: ladda
+Password: WmpSME5HbzFkVFExTkRrMGVqSTBOR00w
+-------------------------
+Datetime: 2024-10-10 09:52:58
+IP Address: 162.158.189.86
+Action: login
+Status: S
+Status Message: Success
+Username: ladda
+Password: WmpSME5HbzFkVFExTkRrMGVqSTNORFUwTXpNPQ==
+-------------------------
+Datetime: 2024-10-10 10:24:19
+IP Address: 172.71.152.43
+Action: login
+Status: S
+Status Message: Success
+Username: phimphan
+Password: YVRSbk5ISTFhVFIyTlcwMVlUUnpOUT09
+-------------------------
+Datetime: 2024-10-10 10:38:25
+IP Address: 172.70.189.184
+Action: login
+Status: S
+Status Message: Success
+Username: pannee
+Password: YVRRNU5IYzFhalJyTldvMWVUSTBORGcwZFRJPQ==
+-------------------------
+Datetime: 2024-10-10 10:42:06
+IP Address: 172.71.81.199
+Action: login
+Status: S
+Status Message: Success
+Username: trungtra
+Password: YlRSeE5ETTJhalJ0TlhrMWNqUm1OVFEwZURKNE1nPT0=
+-------------------------
+Datetime: 2024-10-10 10:49:39
+IP Address: 162.158.189.214
+Action: login
+Status: S
+Status Message: Success
+Username: pornpimol
+Password: YVRSdU5EQTJhalIyTlc0MWJUUjBOWEkxZGpKMk1uWXljekl3TXpNeg==
+-------------------------
+Datetime: 2024-10-10 11:04:59
+IP Address: 172.70.188.44
+Action: logout
+Username: U00022
+-------------------------
+Datetime: 2024-10-10 11:19:54
+IP Address: 108.162.226.78
+Action: login
+Status: S
+Status Message: Success
+Username: wanna
+Password: Y0RRNU5IYzFhalJuTlRVMGVESXlORE0w
+-------------------------
+Datetime: 2024-10-10 11:32:50
+IP Address: 172.71.82.103
+Action: login
+Status: F
+Status Message: รหัสผ่านไม่ถูกต้อง
+Username: pannee
+Password: YVRRNU5IYzFhalJyTldvMWVUSTJORFUwZWpKME1nPT0=
+-------------------------
+Datetime: 2024-10-10 11:32:50
+IP Address: 172.71.82.103
+Action: login
+Status: F
+Status Message: รหัสผ่านไม่ถูกต้อง
+Username: pannee
+Password: YVRRNU5IYzFhalJyTldvMWVUSTJORFUwZWpKME1nPT0=
+-------------------------
+Datetime: 2024-10-10 11:32:55
+IP Address: 172.71.82.102
+Action: login
+Status: F
+Status Message: รหัสผ่านไม่ถูกต้อง
+Username: pannee
+Password: YVRRNU5IYzFhalJyTldvMWVUSTJORFUwZWpKME1nPT0=
+-------------------------
+Datetime: 2024-10-10 11:32:55
+IP Address: 172.71.82.102
+Action: login
+Status: F
+Status Message: รหัสผ่านไม่ถูกต้อง
+Username: pannee
+Password: YVRRNU5IYzFhalJyTldvMWVUSTJORFUwZWpKME1nPT0=
+-------------------------
+Datetime: 2024-10-10 11:33:01
+IP Address: 172.71.82.103
+Action: login
+Status: S
+Status Message: Success
+Username: pannee
+Password: YVRRNU5IYzFhalJyTldvMWVUSTBORGcwZFRJPQ==
+-------------------------
+Datetime: 2024-10-10 11:34:56
+IP Address: 172.70.142.168
+Action: login
+Status: S
+Status Message: Success
+Username: thasanee
+Password: YlRSbk5HbzFielJuTlhNMVpUUnFOVFEwZHpKNU1uWXk=
+-------------------------
+Datetime: 2024-10-10 11:35:11
+IP Address: 172.70.189.82
+Action: login
+Status: S
+Status Message: Success
+Username: chatchai
+Password: TlRSbk5HbzFjRFJwTlcwMVlUUnVOVFkwZGpKMU1uUXk=
+-------------------------
+Datetime: 2024-10-10 11:44:58
+IP Address: 172.71.124.196
+Action: logout
+Username: trungtra
+-------------------------
+Datetime: 2024-10-10 12:11:47
+IP Address: 172.70.92.198
+Action: logout
+Username: sureeporn
+-------------------------
+Datetime: 2024-10-10 13:08:15
+IP Address: 172.71.81.199
+Action: login
+Status: S
+Status Message: Success
+Username: pannee
+Password: YVRRNU5IYzFhalJyTldvMWVUSTBORGcwZFRJPQ==
+-------------------------
+Datetime: 2024-10-10 13:26:43
+IP Address: 172.70.142.213
+Action: login
+Status: S
+Status Message: Success
+Username: sureeporn
+Password: WnpSeE5IZzFiRFJyTldvMWNqUjZOWGsxZGpKMk1qRXo=
+-------------------------
+Datetime: 2024-10-10 13:44:54
+IP Address: 162.158.163.212
+Action: login
+Status: S
+Status Message: Success
+Username: ladda
+Password: WmpSME5HbzFkVFExTkRrMGVqSTNORFUwTXpNPQ==
+-------------------------
+Datetime: 2024-10-10 14:29:59
+IP Address: 162.158.106.134
+Action: logout
+Username: sureeporn
+-------------------------
+Datetime: 2024-10-10 14:35:36
+IP Address: 172.71.124.138
+Action: login
+Status: S
+Status Message: Success
+Username: pannee
+Password: YVRRNU5IYzFhalJyTldvMWVUSTBORGcwZFRJPQ==
+-------------------------
+Datetime: 2024-10-10 14:53:35
+IP Address: 172.70.143.110
+Action: login
+Status: S
+Status Message: Success
+Username: chivathip
+Password: TlRSbk5ISTFjalJuTlRVMGVqSXpOQT09
+-------------------------
+Datetime: 2024-10-10 15:56:06
+IP Address: 172.71.124.196
+Action: login
+Status: S
+Status Message: Success
+Username: sureeporn
+Password: WnpSeE5IZzFiRFJyTldvMWNqUjZOWGsxZGpKMk1qRXo=
+-------------------------
+Datetime: 2024-10-10 16:03:51
+IP Address: 172.70.189.77
+Action: logout
+Username: sureeporn
+-------------------------
+Datetime: 2024-10-10 16:04:05
+IP Address: 172.68.232.166
+Action: login
+Status: S
+Status Message: Success
+Username: sureeporn
+Password: WnpSeE5IZzFiRFJyTldvMWNqUjZOWGsxZGpKMk1qRXo=
+-------------------------
+Datetime: 2024-10-10 23:05:40
+IP Address: 172.71.81.133
+Action: login
+Status: S
+Status Message: Success
+Username: salinee
+Password: Y2pKNU1qazBlREk9
+-------------------------
+Datetime: 2024-10-10 23:05:41
+IP Address: 172.71.81.133
+Action: login
+Status: S
+Status Message: Success
+Username: salinee
+Password: Y2pKNU1qazBlREk9
+-------------------------
